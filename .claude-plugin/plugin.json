@@ -1,0 +1,13 @@
+{
+  "name": "enable-todo-tools",
+  "version": "0.1.0",
+  "description": "Switches Claude Code's todo tools on for models that have them left out",
+  "author": {
+    "name": "Patrick Müller",
+    "url": "https://github.com/muellerei"
+  },
+  "license": "MIT",
+  "homepage": "https://github.com/muellerei/enable-todo-tools",
+  "repository": "https://github.com/muellerei/enable-todo-tools",
+  "keywords": ["claude-code-mod", "task-list", "todo"]
+}

@@ -1,0 +1,12 @@
+{
+  "name": "muellerei-enable-todo-tools",
+  "owner": { "name": "Patrick Müller" },
+  "description": "enable-todo-tools, a Claude Code mod by muellerei.",
+  "plugins": [
+    {
+      "name": "enable-todo-tools",
+      "source": "./",
+      "description": "Switches Claude Code's todo tools on for models that have them left out."
+    }
+  ]
+}

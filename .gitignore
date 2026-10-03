@@ -1,0 +1,25 @@
+# Not in the repository: specs, notes, working material
+local/
+
+# Agent working instructions: names local paths and habits that have no
+# business in a published repository.
+CLAUDE.md
+.claude/
+
+# Written by Claude Code each time it loads the mod: its API types for the editor
+.claude-plugin/types/
+
+# Credentials
+.env
+.env.*
+
+# Editors
+.idea/
+.vscode/
+*.swp
+
+# OS
+.DS_Store
+
+# Logs
+*.log
