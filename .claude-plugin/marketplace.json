@@ -5,8 +5,7 @@
   "plugins": [
     {
       "name": "enable-todo-tools",
-      "source": "./",
-      "description": "Switches Claude Code's todo tools on for models that have them left out."
+      "source": "./"
     }
   ]
 }
